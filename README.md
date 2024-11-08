@@ -6,7 +6,7 @@
 
 
 
-[![Github](https://img.shields.io/github/followers/hyeongikas?label=Follow&style=social)](https://github.com/hyeongikas)
+[![Github](https://img.shields.io/github/followers/hyeongikas?label=Follow&style=social)](https://github.com/ohaneul)
 
 
 
