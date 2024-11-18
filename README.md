@@ -46,8 +46,6 @@
 
 <br><hr><br>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=ohaneul" />
-
 <img align="left" src="https://komarev.com/ghpvc/?username=ohaneul&label=Profile%20views&color=0e75b6&style=flat" />
 
 <h2 align="left">Connect with Me</h2>
