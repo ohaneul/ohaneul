@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Haneul</h1>
+<h1 align="center">Hello! 👋 I'm Haneul</h1>
 
 <h5 align="center">Open Source Enthusiast who Majors in Criminal Law</h5><br>
 
